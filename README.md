@@ -1,2 +1,2 @@
 # Repository_1
-First Repository
+깃허브 이렇게 쓰는게 맞나..?
